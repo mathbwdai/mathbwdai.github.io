@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bowen's Page
 
-You can use the [editor on GitHub](https://github.com/mathbwdai/mathbwdai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am a Master of Philiopsophy student in The Institute of Mathematical Science in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html)
 
 ### Markdown
 
