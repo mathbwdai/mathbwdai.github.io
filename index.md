@@ -10,6 +10,6 @@ Here are some of my notes in geometry. Some are just a shourt slides for student
 In fall 2021, I am a teaching assistant for  [Math1520](https://www.math.cuhk.edu.hk/course/2122/math1520ab). This is a foundamental course on calculus. I will conduct the tutorial parts biweekly and you can find the tutorial notes [here].
 
 ### Activities
-We are organizing a student seminar for vaious topics on geometry in this semester. You can find some of the seminar slides here.
+We are organizing a student seminar for various topics on geometry in this semester. You can find some of the seminar slides here.
 
 
