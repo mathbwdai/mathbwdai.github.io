@@ -1,10 +1,8 @@
 ## Welcome to Bowen's Page
 
-Currently I am a Master of Philiopsophy student in [The Institute of Mathematical Science](http://www.ims.cuhk.edu.hk/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). My supervisor is [Professor Yi Jen Lee](https://www.math.cuhk.edu.hk/people/academic-staff/yjlee). I am studying algebraic geometry recently. Previously I was also studying geometric analysis and low dimensional topology. 
+### Personal Information
+Currently I am a Master of Philiopsophy student in [The Institute of Mathematical Science](http://www.ims.cuhk.edu.hk/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). My supervisor is [Professor Yi Jen Lee](https://www.math.cuhk.edu.hk/people/academic-staff/yjlee). I am studying algebraic geometry recently. Previously I was also studying geometric analysis and low dimensional topology. Here is my [CV](https://drive.google.com/file/d/14scmplRmx3vVwiMnxwPpai2NSWY3WYTa/view?usp=sharing)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
